@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  constructor() {
+    document.location.href = 'https://onuno.ru/';
+  }
 
 }
