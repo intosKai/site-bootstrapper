@@ -9,7 +9,7 @@ import {InAppBrowser} from '@ionic-native/in-app-browser/ngx';
 export class HomePage {
 
   constructor(private iab: InAppBrowser) {
-    const browser = this.iab.create('https://onuno.ru');
+    //const browser = this.iab.create('https://onuno.ru');
   }
 
 }
