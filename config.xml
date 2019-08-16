@@ -14,6 +14,7 @@
     <allow-intent href="viber:*" launch-external="yes" />
     <allow-intent href="sms:*" launch-external="yes" />
     <allow-intent href="mailto:*" launch-external="yes" />
+    <allow-intent href="callto:*" launch-external="yes" />
     <allow-intent href="geo:*" />
     <preference name="ScrollEnabled" value="false" />
     <preference name="android-minSdkVersion" value="19" />
